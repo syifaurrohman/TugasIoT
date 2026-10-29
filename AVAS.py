@@ -1,3 +1,4 @@
+# AVAS - Automatic Vibration & Audio Safety System
 import json
 from collections import deque
 import paho.mqtt.client as mqtt
