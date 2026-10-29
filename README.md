@@ -10,7 +10,7 @@ Proyek IoT ini dirancang untuk mendeteksi kondisi darurat di dalam kabin kendara
 
 | Kategori | Spesifikasi Terimplementasi |
 | :--- | :--- |
-| **Edge Devices** | **3 Perangkat** (HP 1 sebagai Sensor Node, Laptop sebagai Gateway, & HP 2 sebagai Dashboard) |
+| **Edge Devices** | **3 Perangkat** 3 Perangkat (HP 1 sebagai Sensor Node, Laptop sebagai Gateway, & HP 2 sebagai Dashboard).  Note: dalam pembuatan ini kedua HP merupakan iPhone. |
 | **Sensors** | **2 Sensor** (Accelerometer & Microphone) |
 | **Data Processing** | 1. **Audio Moving Average Filter** (Peredam *noise* suara, $N=5$)<br>2. **Threshold Check & Decision Logic** |
 | **Algoritma** | **Sensor Fusion Rules** (Kombinasi Amplitudo Suara & *Magnitude* Percepatan) |
